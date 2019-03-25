@@ -1,6 +1,6 @@
 # Bearbnb
 
-> Recreation of Airbnb's Customer Reviews Module
+> Mockup of Airbnb's Customer Reviews Module
 
 ## Related Projects
 
